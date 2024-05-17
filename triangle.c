@@ -9,10 +9,6 @@ void display_stars(int nb_stars){
     for(int space_i = 0, space_imax = nb_stars; space_i<space_imax; space_i++) printf("*");
 }
 
-void appear_triangle_line(int triangle_witdh, int triangle_line, int triangle_){
-
-}
-
 int get_triangle_base(char char_number[]){
     int triangle_base = atoi(char_number); // nombre négatif positif
     if (triangle_base < 0) triangle_base *= -1; // si négatif -> positif
