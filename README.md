@@ -29,16 +29,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aymnms/triforce-c">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">triforce-c</h3>
+  <h3 align="center">triforce-c</h3>
 
   <p align="center">
     Make a triforce in a console in clang
-    <br />
-    <a href="https://github.com/aymnms/triforce-c"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/aymnms/triforce-c/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -47,7 +42,7 @@
   </p>
 </div>
 
-
+<br />
 
 <!-- TABLE OF CONTENTS -->
 <details>
