@@ -1,32 +1,11 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
@@ -139,11 +118,11 @@ sudo pacman -S base-devel
 
 To execute a c file, you must first compile it, then execute it.
 
-There are currently 2 files you can run: triangle.c and matrice.c
+There are 3 files you can run: triangle.c, matrice.c and triforce.c
 
 ### Compilation
 
-To compile the project, run the following command in the project directory :
+To compile a file, run the following command in the project directory :
 ```sh
 gcc -o output_name source_file.c
 ```
@@ -158,7 +137,7 @@ To run the compiled program, use the following command:
 ./output_name triangle-width
 ```
 
-Replace `output_name` with the name of the executable generated during compilation and `triangle-width` with the desired triangle size
+Replace `output_name` with the name of the executable generated during compilation and `triangle-width` with the desired triangle size. For the triforce, this is the width of the entire triforce.
 
 
 
