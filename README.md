@@ -28,7 +28,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#installation">Installation</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#usage">Usage</a></li>
   </ol>
 </details>
@@ -46,7 +46,7 @@ And now I've just got to do the triforce!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Installation
+## Prerequisites
 
 ### macOS
 
